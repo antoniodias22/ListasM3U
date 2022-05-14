@@ -1,7 +1,7 @@
 #EXTM3U  
-##### bit.do/iptvbmxxx ##########
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="ABERTO Gratis", SBT (NOVOS CANAIS Atualizados EM 13/05/2022) Lista01Maio2022XXX
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+##### bit.do/iptvbmxxx ##########
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="ABERTO Gratis", INDIQUE E GANHE 10 Reais
 https://archive.org/download/indique-e-ganhe-completo/Comercial%20Indique%20e%20ganhe%20Completo-H%20%28VP-5%20RP10%29.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="ABERTO Gratis", SBT
@@ -3562,17 +3562,17 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1280x720_2890800/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="CANAIS: JORNALISMO2", Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-logo="https://w7.pngwing.com/pngs/20/425/png-transparent-CANAIS: BANDnews-tv-CANAIS: BRASIL 2-CANAIS: BANDnews-fm-CANAIS: BAND-television-blue-text.png" group-title="CANAIS: JORNALISMO2", BAND News 
+#EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-logo="https://w7.pngwing.com/pngs/20/425/png-transparent-CANAISBANDnews-tv-CANAIS: BRASIL 2-CANAIS: BANDnews-fm-CANAIS: BAND-television-blue-text.png" group-title="CANAIS: JORNALISMO2", BAND News 
 http://s846397078.mialojamiento.es/7402/mp.php/https://gintna100.tulix.tv/gin_live/band-news-hd/cef7643c46c0980a7d13b3d295826572/61fa8a96/index.m3u8
-#EXTINF:-1 tvg-id="BandCANAIS:JORNALISMO.br" tvg-logo="https://www.band.uol.com.br/assets/bandCANAIS:JORNALISMOtv/logo.png" group-title="CANAIS: JORNALISMO2", BandCANAIS:JORNALISMO  
+#EXTINF:-1 tvg-id="BandCANAIS:JORNALISMO.br" tvg-logo="https://www.band.uol.com.br/assets/bandCANAISJORNALISMOtv/logo.png" group-title="CANAIS: JORNALISMO2", BandCANAIS:JORNALISMO  
 
 #EXTINF:-1 tvg-id="BBCCANAIS:JORNALISMO.uk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-CANAIS:JORNALISMO-uk.png" group-title="CANAIS: JORNALISMO2", BBC CANAIS:JORNALISMO 
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCWorldCANAIS:JORNALISMO.uk" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="CANAIS: JORNALISMO2", BBC World CANAIS:JORNALISMO (576p)
+#EXTINF:-1 tvg-id="BBCWorldCANAISJORNALISMO.uk" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="CANAIS: JORNALISMO2", BBC World CANAIS:JORNALISMO (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8723549258a42a5f239e16317cee4371.jpg" group-title="CANAIS: JORNALISMO2", Bloomberg USA 
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="MetropoleCANAIS:JORNALISMOTV.br" tvg-logo="http://www.cmn.tv.br/images/logo_cmn.fw.png" group-title="CANAIS: JORNALISMO2", Canal Metropolitano de Noticias  
+#EXTINF:-1 tvg-id="MetropoleCANAISJORNALISMOTV.br" tvg-logo="http://www.cmn.tv.br/images/logo_cmn.fw.png" group-title="CANAIS: JORNALISMO2", Canal Metropolitano de Noticias  
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="CANAIS: JORNALISMO2", CBN Rio 
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -3586,9 +3586,9 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="CANAIS: JORNALISMO2", DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="EuroCANAIS.JORNALISMOEnglish.fr" tvg-logo="https://i.postimg.cc/X7YYFZR2/euroCANAIS:JORNALISMO.png" group-title="CANAIS: JORNALISMO2", EuroCANAIS:JORNALISMO English 
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euroCANAIS:JORNALISMOLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-id="EuroCANAIS.JORNALISMOPortugues.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/EuroCANAIS:JORNALISMO_2016_logo.svg/1000px-EuroCANAIS:JORNALISMO_2016_logo.svg.png" group-title="CANAIS: JORNALISMO2", EuroCANAIS:JORNALISMO PortuguÃªs 
+#EXTINF:-1 tvg-id="EuroCANAIS.JORNALISMOEnglish.fr" tvg-logo="https://i.postimg.cc/X7YYFZR2/euroCANAISJORNALISMO.png" group-title="CANAIS: JORNALISMO2", EuroCANAIS:JORNALISMO English 
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euroCANAISJORNALISMOLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 tvg-id="EuroCANAIS.JORNALISMOPortugues.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/EuroCANAISJORNALISMO_2016_logo.svg/1000px-EuroCANAIS:JORNALISMO_2016_logo.svg.png" group-title="CANAIS: JORNALISMO2", EuroCANAIS:JORNALISMO PortuguÃªs 
 https://euroCANAIS.JORNALISMO-euroCANAIS.JORNALISMO-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="CANAIS: JORNALISMO2", France 24 English (1080p)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
@@ -3607,12 +3607,12 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="CANAIS: JORNALISMO2", Record News 2 
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTCANAIS:JORNALISMO.ru" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="CANAIS: JORNALISMO2", RT CANAIS: JORNALISMO 
-https://rt-glb.gcdn.co/live/rtCANAIS:JORNALISMO/playlist.m3u8
+https://rt-glb.gcdn.co/live/rtCANAISJORNALISMO/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4e8aa4df866476c7bb37001782b2e97.jpg" group-title="CANAIS: JORNALISMO2", The Weather Channel 
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="CANAIS: JORNALISMO2", TRT World  
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TVideoCANAIS:JORNALISMO.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="CANAIS: JORNALISMO2", TVÃ­deoCANAIS: JORNALISMO  
+#EXTINF:-1 tvg-id="TVideoCANAISJORNALISMO.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="CANAIS: JORNALISMO2", TVÃ­deoCANAIS: JORNALISMO  
 https://59f2354c05961.streamlock.net:1443/tvideoCANAIS:JORNALISMO/_definst_/tvideoCANAIS:JORNALISMO/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="CANAIS: MTV", Block Party 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
@@ -3857,9 +3857,9 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d5f45ff39e91194843658c68b3b357f8.png" group-title="CANAIS: RADIOS FM",98 News 
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist_b2179072.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YjB73sNAHd.png" group-title="CANAIS: RADIOS FM", CANAIS: BAND News 
-https://evpp.mm.uol.com.br/CANAIS: BAND/CANAIS: BANDnewsfm_sp/chunklist_w451168700.m3u8
+https://evpp.mm.uol.com.br/BAND/BANDnewsfm_sp/chunklist_w451168700.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZYctjmnfNE.jpeg" group-title="CANAIS: RADIOS FM", CANAIS: TV CULTURA FM 
-https://radioCANAIS: TV CULTURA.jmvstream.com/stream
+https://radioCANAISTVCULTURA.jmvstream.com/stream
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7528f9dbaf65dfa3998a42b00edc4136.png" group-title="CANAIS: RADIOS FM", Cative FM 
 http://wowza4.catve.com.br:1935/radiocamera/livestream/chunklist_w752834162.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="CANAIS: RADIOS FM", CBN 
@@ -3897,7 +3897,7 @@ https://shout12.crossradio.com.br:18002/1;
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28c201940a2d42b7079894a4ec2a91b8.png" group-title="CANAIS: RADIOS FM", Monte FM 
 https://srv02.brasilstream.com.br/live/montefm/montefm/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nress4zqykfy.png" group-title="CANAIS: RADIOS FM", Nativa FM 
-https://evpp.mm.uol.com.br/CANAIS: BAND/nativa_sp/media_w1968468529_58419.aac
+https://evpp.mm.uol.com.br/CANAISBAND/nativa_sp/media_w1968468529_58419.aac
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28987a4ac0e1c027f469ff70d132a5a8.png" group-title="CANAIS: RADIOS FM", O Dia FM 
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b1596000.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc4cd15f95807d0d3c794fa75b574ac3.png" group-title="CANAIS: RADIOS FM", On FM 
@@ -4048,4 +4048,3 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/fm-o-dia-foto.jpg" group-title="RADIOS", FM O DIA 100.5 - ESTÚDIO AO VIVO
 https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8
-
