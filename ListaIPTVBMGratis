@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="IPTVBM Gratis",  Band - RBA TV (Atualizada em 05/04/22) ListaIPTVBMGratis
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="IPTVBM Gratis",  Band - RBA TV (Atualizada em 13/05/22) ListaIPTVBMGratis
 https://streaming.gruporba.com.br/rba.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title=" CANAIS ABERTOS",  INDIQUE E GANHE 10 Reais
+https://archive.org/download/indique-e-ganhe-completo/Comercial%20Indique%20e%20ganhe%20Completo-H%20%28VP-5%20RP10%29.mp4
 #EXTINF:0 group-title=" CANAIS ABERTOS", BAND
 http://168.205.87.198:8555/live/michele/123456/19.ts
 #EXTINF:0 group-title=" CANAIS ABERTOS", BAND
@@ -143,7 +145,7 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 group-title=" TV LOCAL", AGROMAIS
 http://168.205.87.198:8555/live/1221/123456/175.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/7RJHIOl.png" group-title=" TV LOCAL", AISH TV BRASIL
+#EXTINF:-1 tvg-logo="https://imgur.com/7RJHIOl.png" group-title=" CANAIS DOCUMENTARIOS", AISH TV BRASIL
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WNvxlJ8.png" group-title=" TV LOCAL", ALPHA CHANNEL
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
@@ -1461,15 +1463,15 @@ https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-logo="https://w7.pngwing.com/pngs/20/425/png-transparent-CANAIS: BANDnews-tv-CANAIS: BRASIL 2-CANAIS: BANDnews-fm-CANAIS: BAND-television-blue-text.png" group-title="CANAIS: JORNALISMO2", BAND News 
 http://s846397078.mialojamiento.es/7402/mp.php/https://gintna100.tulix.tv/gin_live/band-news-hd/cef7643c46c0980a7d13b3d295826572/61fa8a96/index.m3u8
-#EXTINF:-1 tvg-id="BandCANAIS:JORNALISMO.br" tvg-logo="https://www.band.uol.com.br/assets/bandCANAIS:JORNALISMOtv/logo.png" group-title="CANAIS: JORNALISMO2", BandCANAIS:JORNALISMO  
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://www.band.uol.com.br/assets/bandnewstv/logo.png" group-title="CANAIS: JORNALISMO2", Band News
 
-#EXTINF:-1 tvg-id="BBCCANAIS:JORNALISMO.uk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-CANAIS:JORNALISMO-uk.png" group-title="CANAIS: JORNALISMO2", BBC CANAIS:JORNALISMO 
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="CANAIS: JORNALISMO2", BBC CANAIS:JORNALISMO 
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCWorldCANAIS:JORNALISMO.uk" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="CANAIS: JORNALISMO2", BBC World CANAIS:JORNALISMO (576p)
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="CANAIS: JORNALISMO2", BBC World News (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8723549258a42a5f239e16317cee4371.jpg" group-title="CANAIS: JORNALISMO2", Bloomberg USA 
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="MetropoleCANAIS:JORNALISMOTV.br" tvg-logo="http://www.cmn.tv.br/images/logo_cmn.fw.png" group-title="CANAIS: JORNALISMO2", Canal Metropolitano de Noticias  
+#EXTINF:-1 tvg-id="MetropoleNewsTV.br" tvg-logo="http://www.cmn.tv.br/images/logo_cmn.fw.png" group-title="CANAIS: JORNALISMO2", Canal Metropolitano de Noticias
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="CANAIS: JORNALISMO2", CBN Rio 
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -1477,40 +1479,40 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-name="CBN Sao Paulo" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="CANAIS: JORNALISMO2", CBN Sao Paulo 
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="CANAIS: JORNALISMO2", CBN SÃ£o Paulo 
+#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="CANAIS: JORNALISMO2", CBN Sao Paulo 
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.us" tvg-logo="https://i.imgur.com/JXb5l9K.png" group-title="CANAIS: JORNALISMO2", CNN Brasil 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="CANAIS: JORNALISMO2", DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="EuroCANAIS.JORNALISMOEnglish.fr" tvg-logo="https://i.postimg.cc/X7YYFZR2/euroCANAIS:JORNALISMO.png" group-title="CANAIS: JORNALISMO2", EuroCANAIS:JORNALISMO English 
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euroCANAIS:JORNALISMOLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-id="EuroCANAIS.JORNALISMOPortugues.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/EuroCANAIS:JORNALISMO_2016_logo.svg/1000px-EuroCANAIS:JORNALISMO_2016_logo.svg.png" group-title="CANAIS: JORNALISMO2", EuroCANAIS:JORNALISMO PortuguÃªs 
-https://euroCANAIS.JORNALISMO-euroCANAIS.JORNALISMO-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroNewsEnglish.fr" tvg-logo="https://i.postimg.cc/X7YYFZR2/euroNews.png" group-title="CANAIS: JORNALISMO2", EuroNews English 
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euroNewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 tvg-id="EuroNewsPortugues.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/EuroNews_2016_logo.svg/1000px-EuroCANAIS:JORNALISMO_2016_logo.svg.png" group-title="CANAIS: JORNALISMO2", EuroCANAIS:JORNALISMO PortuguÃªs 
+https://euroCANAIS:JORNALISMO-euroCANAIS:JORNALISMO-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="CANAIS: JORNALISMO2", France 24 English (1080p)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="JovemPanCANAIS.JORNALISMO.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/320px-Jovem_Pan_logo_2018.svg.png" group-title="CANAIS: JORNALISMO2", Jovem Pan 
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/320px-Jovem_Pan_logo_2018.svg.png" group-title="CANAIS: JORNALISMO2", Jovem Pan 
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.jovempan.com.br/uploads/2018/06/unnamed-500x500.png" group-title="CANAIS: JORNALISMO2", Jovem Pan News HD 
 https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.jovempan.com.br/uploads/2018/06/unnamed-500x500.png" group-title="CANAIS: JORNALISMO2", JovemPan 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-#EXTINF:-1 tvg-id="PlutoTVRecordCANAIS.JORNALISMO.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS: JORNALISMO2", Pluto TV Record 
+#EXTINF:-1 tvg-id="PlutoTVRecordCANAIS:JORNALISMO.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS: JORNALISMO2", Pluto TV Record 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="RecordCANAIS.JORNALISMO.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_CANAIS:JORNALISMO_%282016%29.png" group-title="CANAIS: JORNALISMO2", Record 
-https://rede-muhler-recordCANAIS.JORNALISMO-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="CANAIS: JORNALISMO2", Record 
+https://rede-muhler-recordNews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="CANAIS: JORNALISMO2", Record News 
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="CANAIS: JORNALISMO2", Record News 2 
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
-#EXTINF:-1 tvg-id="RTCANAIS:JORNALISMO.ru" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="CANAIS: JORNALISMO2", RT CANAIS: JORNALISMO 
-https://rt-glb.gcdn.co/live/rtCANAIS:JORNALISMO/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="CANAIS: JORNALISMO2", RT News
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4e8aa4df866476c7bb37001782b2e97.jpg" group-title="CANAIS: JORNALISMO2", The Weather Channel 
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="CANAIS: JORNALISMO2", TRT World  
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TVideoCANAIS:JORNALISMO.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="CANAIS: JORNALISMO2", TVÃ­deoCANAIS: JORNALISMO  
-https://59f2354c05961.streamlock.net:1443/tvideoCANAIS:JORNALISMO/_definst_/tvideoCANAIS:JORNALISMO/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVideoNews.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="CANAIS: JORNALISMO2", TV VideoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="CANAIS: MTV", Block Party 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/85/8a/66858a28798dfd6be649831c3c8005a8.png" group-title="CANAIS: MTV", CANAIS: MTV Black 
