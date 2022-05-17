@@ -1,10 +1,10 @@
 #EXTM3U  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="ABERTO Gratis", SBT (NOVOS CANAIS Atualizados EM 13/05/2022) Lista01Maio2022XXX
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="ABERTO Gratis", INDIQUE E GANHE 10 Reais
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="ABERTO Gratis", SBT (NOVOS CANAIS Atualizados EM 08/04/2022)iptvbmxxx
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title=" CANAIS ABERTOS",  INDIQUE E GANHE 10 Reais
 https://archive.org/download/indique-e-ganhe-completo/Comercial%20Indique%20e%20ganhe%20Completo-H%20%28VP-5%20RP10%29.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="ABERTO Gratis", SBT
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E SD" tvg-logo="http://srvlogo.07d994.co/cover/1/AE.png" group-title="Canais: Filmes e Séries",A&E SD
+http://srv.mtvs.me:80/testes0102/testes0102123456/28662
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="ABERTO Gratis", SBT HD (Preciso de doacoes para manter esta Lista)
 http://fortv.cc:8080/Rob/Rob2021/20978
 #EXTINF: -1 tvg-id = "SBT.br" group-title="ABERTO Gratis" tvg-logo= tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png", SBT - BEM TV (MT)
@@ -16,14 +16,18 @@ http://fortv.cc:8080/Rob/Rob2021/21018
 #EXTINF:-1 tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="ABERTO Gratis",Globo SP HD (TVBOX com CANAIS FILMES E SERIES GRATIS por 599.00 a vista Whats(47)99195-2228)
 http://fortv.cc:8080/Rob/Rob2021/21020
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="ABERTO Gratis", AgroBrasil TV (Quer canais com GloboPlay e DisneyPlus? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8 
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO Gratis", AMERICA HORROR CHANNEL (Quer canais com Amazon e PrimeVideo? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO Gratis", AWC CHANNEL (Quer canais com BIG BROTHER e NETFLIX? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTO Gratis", AWC CHANNEL (Lista PREMIUM com FILMES SERIADOS E CANAIS por 35.00 Reais mensais)
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://img.appino.tv/img/bandeirantes.png" group-title="ABERTOS",BAND SP HD (Peça um teste gratis e conheça nossa LISTA PREMIUM. WhatsApp (47)99626-5594)
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://img.appino.tv/img/bandeirantes.png" group-title="ABERTOS",Band (Quer canais com BIG BROTHER e NETFLIX? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://img.appino.tv/img/bandeirantes.png" group-title="ABERTOS",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://img.appino.tv/img/bandeirantes.png" group-title="ABERTOS",Band 
 http://168.205.87.198:8555/live/1111/123456/19.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="ABERTO Gratis", Brasil Oeste (Indique nossa LISTA PREMIUM e GANHE 10.00 REAIS todo mês por cada Indicacao Whats (47)99626-5594)
 https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
@@ -159,6 +163,72 @@ https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
 http://50.7.34.155:2201/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=nullR
 #EXTINF:-1 tvg-name="Assistir TV no Celular" group-title="ABERTO Gratis",TV VIVA 1
 http://50.7.34.155:2201/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=nullR
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS: HD",RECORDTV HD
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16748
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: HD",ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16693
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="CANAIS: HD",DISCOVERY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16705
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/531a36f4089a5f65b28bedb90dc00117.png" group-title="CANAIS: HD",COMEDY CENTRAL HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16704
+#EXTINF:-1 tvg-id="" tvg-name="Star Life" tvg-logo="http://xcui.vitvabc.xyz:8880/images/619b13fb4189d623b016edb8aa0250fc.png" group-title="CANAIS: HD",Star Life
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16721
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f86427073efd142c6d56d817ddbb556e.png" group-title="CANAIS: HD",ESPN Brasil HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16717
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS: HD",CINEMAX HD
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16702
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryscienceb.png" group-title="CANAIS: HD",Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16708
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: HD",SporTV HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16753
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: HD",Discovery World HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16712
+#EXTINF:-1 tvg-id="" tvg-name="Space HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: HD",Space HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16750
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigao Discovery HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/investigationb.png" group-title="CANAIS: HD",ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16736
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS: HBO",HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/31462
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS: HD",Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16746
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: HD",TNT HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16760
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png" group-title="CANAIS: HD",Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16711
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sies HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS: HD",TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16761
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS: HD",H2 HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16733
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png" group-title="CANAIS: HD",AXN HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16695
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="CANAIS: HD",SBT SP HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16749
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 1 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="CANAIS: HD",STAR HITS 1 HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16722
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="CANAIS: HD",Globo SP HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16730
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS: HD",Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16700
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/31279
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="CANAIS: HD",STAR HITS 2 HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16723
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS: HD",Combate HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16703
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png" group-title="CANAIS: HBO",HBO 2 HD
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/31460
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO 1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: HBO",HBO 1 HD
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/31465
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: HD",Telecine Fun HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16756
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpremiumb.png" group-title="CANAIS: HD",Telecine Premium HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16758
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/31583
+#EXTINF:-1 tvg-id="Example" tvg-name="Fox Sports 1 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/96e8f1dba8c6dfcf1379418173569f03.png" group-title="CANAIS: HD",Fox Sports 1 HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16725
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: HD",Telecine Pipoca HD+
+http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16757
 #EXTINF:-1 tvg-id="Canal do Cliente" tvg-logo="https://i.imgur.com/hWbctsy.jpg" group-title="CANAIS: Filmes e Series",CANAL DO USUÁRIO 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?Cortesia
 #EXTINF:-1 tvg-id="TV Aracati" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="CANAIS: Filmes e Series",ARACATI TV (Séries)
@@ -233,11 +303,11 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png" group-title="DIVERSOS Gratis", TV Birigui - WebTV (VENDO TVBOX com Tudo Liberado CANAIS FILMES e SERIES) Whats(47)99195-2228
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="DIVERSOS Gratis", Via Morena (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="DIVERSOS Gratis", Via Morena (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594)
 https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/slWITgo.png" group-title="DOCUMENTARIOS Gratis", TV CULTURA EDUCAÇÃO (Master TV)
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="DOCUMENTARIOS Gratis", TVídeoNews (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="DOCUMENTARIOS Gratis", TVídeoNews (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594)
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="DOCUMENTARIOS Gratis", TVídeoNews Assine nossa Lista Premium para mais canais (47)99626-5594
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
@@ -257,17 +327,17 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UWMgqQu.png" group-title="Filmes e Series GRATIS", TV CAPITAL (Séries)
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rg5j9my.jpg" group-title="INFANTIL Gratis", 3ABN KIDS (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rg5j9my.jpg" group-title="INFANTIL Gratis", 3ABN KIDS (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
 https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/SQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://distv.net/icons/babytv.png" group-title="INFANTIL Gratis", KIDS (TVBOX Tudo Liberado Gratis CANAIS FILMES e SERIES) Whats(47)99195-2228
 http://168.205.87.198:8555/live/leila/123456/143.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="INFANTIL Gratis", NAT GEO KIDS HD (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
+#EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="INFANTIL Gratis", NAT GEO KIDS HD (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
 http://ultra-premium-pro.xyz:8080/Bruno/Bruno/40033
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL Gratis", GAZETA NORTE MINEIRO
 https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ns04L9j.png" group-title="INFANTIL Gratis", KURIAKOS KIDS Assine nossa Lista Premium para assistir os Canais Infantil WhatsApp(47)99626-5594
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="INFANTIL Gratis", Kuriakos Kids (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="INFANTIL Gratis", Kuriakos Kids (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL Gratis", KURIAKOS KIDS (INVESTIMENTO ZERO. Acesse: http://bit.ly/bitmasterzero)
 http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
@@ -295,42 +365,10 @@ http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/chunklist_w174757499.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="MUSICA Gratis", 1HD Music (Assine nossa Lista Premium para assistir mais Canais de Musica WhatsApp(47)99626-5594)
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="MUSICA Gratis", Capital TV (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="MUSICA Gratis", Capital TV (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="MUSICA Gratis", Capital TV (TVBOX Tudo Liberado Gratis CANAIS FILMES e SERIES) Whats(47)99195-2228
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 group-title="MUSICA Gratis",Balkanika Music Television
-http://87.246.54.125:4022/udp/239.1.1.123:4000
-#EXTINF:-1 group-title="MUSICA Gratis",CITY TV
-http://87.246.54.125:4022/udp/239.1.1.83:4000
-#EXTINF:-1 group-title="MUSICA Gratis",Club HD
-http://87.246.54.125:4022/udp/239.1.5.10:4000
-#EXTINF:-1 group-title="MUSICA Gratis",CodeFashion TV HD
-http://87.246.54.125:4022/udp/239.1.3.101:4000
-#EXTINF:-1 group-title="MUSICA Gratis",Fashion TV HD
-http://87.246.54.125:4022/udp/239.1.1.37:4000
-#EXTINF:-1 group-title="MUSICA Gratis",Jukebox
-http://87.246.54.125:4022/udp/239.1.3.3:4000
-#EXTINF:-1 group-title="MUSICA Gratis",Jukebox HD
-http://87.246.54.125:4022/udp/239.1.4.3:4000
-#EXTINF:-1 group-title="MUSICA Gratis",Magic TV HD
-http://87.246.54.125:4022/udp/239.1.2.200:4000
-#EXTINF:-1 group-title="MUSICA Gratis",MTV 80s
-http://87.246.54.125:4022/udp/239.1.0.117:4000
-#EXTINF:-1 group-title="MUSICA Gratis",MTV 90s
-http://87.246.54.125:4022/udp/239.1.1.137:4000
-#EXTINF:-1 group-title="MUSICA Gratis",MTV Club
-http://87.246.54.125:4022/udp/239.1.0.138:4000
-#EXTINF:-1 group-title="MUSICA Gratis",MTV Hits
-http://87.246.54.125:4022/udp/239.1.0.118:4000
-#EXTINF:-1 group-title="MUSICA Gratis",N/A
-http://87.246.54.125:4022/udp/239.1.3.185:4000
-#EXTINF:-1 group-title="MUSICA Gratis",Rock
-http://87.246.54.125:4022/udp/239.1.3.2:4000
-#EXTINF:-1 group-title="MUSICA Gratis",The Voice
-http://87.246.54.125:4022/udp/239.1.1.119:4000
-#EXTINF:-1 group-title="MUSICA Gratis",VH1
-http://87.246.54.125:4022/udp/239.1.1.121:4000
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="MUSICA Gratis", KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="MUSICA Gratis", KroneHIT
@@ -377,7 +415,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/../../../5
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="NOTICIÁRIO Gratis", RECORD NEWS
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="NOTICIÁRIO Gratis", Record News (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="NOTICIÁRIO Gratis", Record News (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_tv_guarc3a1.png" group-title="NOTICIÁRIO Gratis", Record News - TV Guará (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
@@ -474,7 +512,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab2100080
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="RELIGIOSOS", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="RELIGIOSOS", IMPD TV (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="RELIGIOSOS", IMPD TV (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="RELIGIOSOS", ITV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
@@ -564,7 +602,7 @@ http://c3live-sm.mediainbox.net/cadena3.mp3
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="RADIOS GRATIS", CBN SP (TVBOX Tudo Liberado Gratis CANAIS FILMES e SERIES) Whats(47)99195-2228
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NeJf46K.jpg" group-title="RADIOS GRATIS", COCA COLA FM (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NeJf46K.jpg" group-title="RADIOS GRATIS", COCA COLA FM (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
 http://listen.181fm.com:7080/181-power_128k.mp3
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIOS GRATIS", Festa
 http://6d9a.webradio.upx.net.br:9070/stream?CANALANDRONALTAS
@@ -650,51 +688,21 @@ https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
 #EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="RADIOS GRATIS", WebRADIO BITMASTER 24Hs Online
 https://Fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10077&type=s1
-#EXTINF:-1 group-title="ADULTOS Gratis",Chasse et Peche
-http://87.246.54.125:4022/udp/239.1.0.73:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",Dorcel X HD
-http://87.246.54.125:4022/udp/239.1.1.255:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",Dorcel XXX HD
-http://87.246.54.125:4022/udp/239.1.1.64:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",Extasy 4K
-http://87.246.54.125:4022/udp/239.1.3.200:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",PASSIONXXX SD
-http://87.246.54.125:4022/udp/239.1.3.192:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",Redlight HD
-http://87.246.54.125:4022/udp/239.1.2.80:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",SCT
-http://87.246.54.125:4022/udp/239.1.1.247:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",SCT Sext 6 Senso
-http://87.246.54.125:4022/udp/239.1.1.249:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",Vixen HD
-http://87.246.54.125:4022/udp/239.1.5.90:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",XXL
-http://87.246.54.125:4022/udp/239.1.1.248:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",XXL HD
-http://87.246.54.125:4022/udp/239.1.1.251:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",XYMAX HD
-http://87.246.54.125:4022/udp/239.1.3.96:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",XYMIX HD
-http://87.246.54.125:4022/udp/239.1.3.95:4000
-#EXTINF:-1 group-title="ADULTOS Gratis",XYPlus HD
-http://87.246.54.125:4022/udp/239.1.3.97:4000
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="CANAIS: ADULTOS Gratis", AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="CANAIS: ADULTOS Gratis", AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="ADULTOS Gratis", AST TV 1 (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
+#EXTINF:-1 group-title="ADULTO" tvg-name="XXX: ALBA XXX1 HD" ,ALBA 1 HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20400
+#EXTINF:-1 group-title="ADULTO" tvg-name="XXX: ALBA XXX2 HD" ,ALBA 2 HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20399
+#EXTINF:-1 group-title="ADULTO" tvg-name="XXX: ALBA XXX3 HD" ,ALBA 3 HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20398
+#EXTINF:-1 group-title="ADULTO" tvg-name="ALINE RIOS AS PANTERAS" ,ALINE RIOS AS PANTERAS
+https://spankbang.com/stream/Mjg2Njc5MQ.t3I-1i4WgGxnHF_AlgcL8h03b1I.mp4
+#EXTINF:-1 group-title="ADULTO" tvg-name="Brasileirinhas: Julia Paes vs Regininha Poltergeist" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg" ,Brasileirinhas: Julia Paes vs Regininha Poltergeist
+http://neonp2p.com:8080/movie/Luciene2022/2022luciene/963746.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="ADULTOS Gratis", AST TV 1 (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
 https://www.ast.tv/stream/1/high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="ADULTOS Gratis", AST TV 1(TVBOX Tudo Liberado Gratis CANAIS FILMES e SERIES) Whats(47)99195-2228
 https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="CANAIS: ADULTOS Gratis", AST TV 2 (Indique e GANHE 7 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
-https://www.ast.tv/stream/2/high.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="CANAIS: ADULTOS Gratis", AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-
-#EXTINF:-1 tvg-logo="http://.png" group-title="ADULTOS Gratis", CANAL 28 
+#EXTINF:-1 tvg-logo="http://.png" group-title="ADULTOS Gratis", CANAL 28 (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594) 
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 tvg-logo="http://.png" group-title="ADULTOS Gratis", CANAL 29
 http://live.redtraffic.xyz/pornstar.m3u8
@@ -954,7 +962,7 @@ http://live.redtraffic.xyz/teen.m3u8
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES: ADULTOS Gratis", Team Skeet - VOD 18 - Natalia Rossi
 http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
-#EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="ABERTO Gratis", WebRADIO BITMASTER 24Hs Online
+#EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="FILMES: ADULTOS Gratis", WebRADIO BITMASTER 24Hs Online
 https://Fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10077&type=s1
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="ABERTO Gratis", INDIQUE E GANHE 10 Reais
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="FILMES: ADULTOS Gratis",  INDIQUE E GANHE 10 Reais
 https://archive.org/download/indique-e-ganhe-completo/Comercial%20Indique%20e%20ganhe%20Completo-H%20%28VP-5%20RP10%29.mp4
