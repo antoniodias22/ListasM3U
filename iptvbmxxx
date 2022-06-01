@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: ABERTOS",  SBT (Lista Atualizada EM 20/05/2022 20:55) iptvbmxxx X L4tfuaDB
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: ABERTOS",  SBT (Lista Atualizada EM 01/06/2022 09:55) iptvbmxxx X L4tfuaDB
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ABERTOS",  SBT (TV CIDADE VERDE) (ME AJUDE A MANTER ESTA LISTA FAZENDO UMA DOACAO)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -1511,16 +1511,6 @@ https://archive.org/download/indique-e-ganhe-completo/Comercial%20Indique%20e%20
 http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
 #EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="FILMES: ADULTOS Gratis", WebRADIO BITMASTER 24Hs Online
 https://Fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10077&type=s1
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="CANAIS: OFFLINE",  1HD Music (Assine nossa Lista Premium para assistir mais Canais de Musica WhatsApp(47)99626-5594)
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: OFFLINE",  Capital TV
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="CANAIS: OFFLINE",  Capital TV (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594)
-https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="CANAIS: OFFLINE",  Capital TV (TVBOX Tudo Liberado Gratis CANAIS FILMES e SERIES) Whats(47)99195-2228
-https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-logo="BFTV (17).PNG" group-title="CANAIS: OFFLINE",  CBN NEWS
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3958377906001
 #EXTINF:-1 tvg-logo="https://imgur.com/fUCGYqp.png" group-title="CANAIS: OFFLINE",  CINE COMÉDIA (Preciso de doacoes para manter esta Lista no Ar)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/q17ntdH.png" group-title="CANAIS: OFFLINE",  CINE DRAMA (ME AJUDE A MANTER ESTA LISTA NO AR FAZENDO UMA DOACAO)
@@ -1531,28 +1521,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/CaNAHVg.png" group-title="CANAIS: OFFLINE",  CINE TERROR (Quer canais com GloboPlay e DisneyPlus? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ff7f4f3-233d-4e09-bbf7-e36a061d79f7&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aVF2CLf.jpg" group-title="CANAIS: OFFLINE",  DEEJAY TV (Itália)
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/f86427073efd142c6d56d817ddbb556e.png" group-title="CANAIS: OFFLINE",  ESPN Brasil HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16717
 #EXTINF:-1 tvg-logo="https://imgur.com/8Vr6580.png" group-title="CANAIS: OFFLINE",  FILMES AÇÃO (Lista PREMIUM com FILMES SERIADOS E CANAIS por 35.00 Reais mensais)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS: OFFLINE",  FILMES NACIONAIS (Peça um teste gratis agora mesmo e conheça nossa LISTA PREMIUM. WhatsApp (47)99626-5594)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5762a61-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8784fb7f-5209-406d-b66a-2fe035ee1a18&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="CANAIS: OFFLINE",  Filmes Suspense
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="CANAIS: OFFLINE",  FILMES SUSPENSE (Indique nossa LISTA PREMIUM e GANHE 10.00 REAIS todo mês por cada Indicacao Whats (47)99626-5594)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: OFFLINE",  GARAGE TV AUTOS PLANETFOOLS
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="CANAIS: OFFLINE",  Globo SP HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16730
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS: OFFLINE",  M2O
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="CANAIS: OFFLINE",  m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="CANAIS: OFFLINE",  NAT GEO KIDS HD (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594)
-http://ultra-premium-pro.xyz:8080/Bruno/Bruno/40033
 #EXTINF:-1 tvg-logo="https://imgur.com/8Vr6580.png" group-title="CANAIS: OFFLINE",  Pluto TV Filmes Ação
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS: OFFLINE",  Pluto TV Filmes Nacionais
@@ -1563,79 +1537,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="CANAIS: OFFLINE",  Pluto TV Shows por Stingray
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d759160-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59dd21f-38ed-446d-8348-e9e4b6640131&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="CANAIS: OFFLINE",  RECORD NEWS
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="CANAIS: OFFLINE",  Record News (Indique e GANHE 10 REAIS mensais por cada LISTA IPTV PREMIUM (47)99626-5594)
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="CANAIS: OFFLINE",  STAR HITS 2 HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16723
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS: OFFLINE",  Tokusato
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="CANAIS: OFFLINE",  TV Evangelizar
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: OFFLINE",  TV VIVA
-http://50.7.34.155:2201/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=nullR
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NLrsj5tuCPI/W1d4FKNYOwI/AAAAAAAAAsk/FTCgpljEkYIEShyjKHP1eutiFqE28kolACLcBGAs/s1600/UnisulTV%2BLogo.png" group-title="CANAIS: OFFLINE",  UNISUL TV (Tubarão)
-https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wMim9ai.jpg" group-title="CANAIS: OFFLINE",  YEEAAH (Música e Games)
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: OFFLINE", ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16693
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png" group-title="CANAIS: OFFLINE", AXN HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16695
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS: OFFLINE", Canal Sony HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16700
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS: OFFLINE", CINEMAX HD
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16702
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS: OFFLINE", Combate HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16703
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/531a36f4089a5f65b28bedb90dc00117.png" group-title="CANAIS: OFFLINE", COMEDY CENTRAL HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16704
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="CANAIS: OFFLINE", DISCOVERY CHANNEL HD
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16705
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryscienceb.png" group-title="CANAIS: OFFLINE", Discovery Science HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16708
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png" group-title="CANAIS: OFFLINE", Discovery Turbo HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16711
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: OFFLINE", Discovery World HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16712
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/96e8f1dba8c6dfcf1379418173569f03.png" group-title="CANAIS: OFFLINE", Fox Sports 1 HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16725
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS: OFFLINE", H2 HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16733
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: OFFLINE", HBO 1 HD
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/31465
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png" group-title="CANAIS: OFFLINE", HBO 2 HD
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/31460
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS: OFFLINE", HBO FAMILY HD
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/31462
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/investigationb.png" group-title="CANAIS: OFFLINE", ID Investigao Discovery HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16736
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS: OFFLINE", MEGAPIX HD
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/31279
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS: OFFLINE", Paramount Channel HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16746
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS: OFFLINE", RECORDTV HD
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16748
-#EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="CANAIS: OFFLINE", RTV CANAL 38
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: OFFLINE", Space HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16750
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: OFFLINE", SporTV HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16753
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/619b13fb4189d623b016edb8aa0250fc.png" group-title="CANAIS: OFFLINE", Star Life
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16721
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: OFFLINE", TELECINE ACTION HD
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/31583
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: OFFLINE", Telecine Fun HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16756
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: OFFLINE", Telecine Pipoca HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16757
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpremiumb.png" group-title="CANAIS: OFFLINE", Telecine Premium HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16758
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: OFFLINE", TNT HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16760
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS: OFFLINE", TNT Sies HD+
-http://xcui.vitvabc.xyz:8880/28799400310c/28799400310c/16761
 #EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="CANAIS: OFFLINE", TV THATHI
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
