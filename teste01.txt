@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS: ABERTOS",  SBT (Lista Atualizada EM 13/06/22 14:55) iptvbmxxx
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS: ABERTOS",  SBT (Lista Atualizada EM 22/06/22 14:35) iptvbmxxx
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS: ABERTOS",  SBT (TV CIDADE VERDE)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -17,6 +17,8 @@ https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5aKFdDR.png" group-title="CANAIS: ABERTOS", ALLEGRO WEB TV
 https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: ABERTOS",  Ganhe dinheiro na Internet SEM INVESTIR
+https://archive.org/download/aplicativo-pagando-no-free-youtube/Aplicativo%20pagando%20no%20Free%20Youtube.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/WNvxlJ8.png" group-title="CANAIS: ABERTOS", ALPHA CHANNEL
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nYIkG2G.png" group-title="CANAIS: ABERTOS", AMERICA HORROR CHANNEL (Quer canais com Amazon e PrimeVideo? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
@@ -617,6 +619,8 @@ https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u
 https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="CANAIS: DIVERSOS Gratis", Via Morena (Indique e GANHE 10 REAIS comissão (47)99626-5594)
 https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: DIVERSOS Gratis",  Ganhe dinheiro na Internet SEM INVESTIR
+https://archive.org/download/aplicativo-pagando-no-free-youtube/Aplicativo%20pagando%20no%20Free%20Youtube.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png" group-title="CANAIS: DOCUMENTARIOS Gratis", CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png" group-title="CANAIS: DOCUMENTARIOS Gratis", RT Documentary Channel (Quer canais HBO Plus e DISNEY? Assine nossa lista PREMIUM. WhatsApp(47)99626-5594)
@@ -643,6 +647,8 @@ https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv6_1_1800/playlist.m3u8?wsApp=HLS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mcc2grC.jpg" group-title="CANAIS: FILMES E SERIES", CLASSIQUE TV 2 (Quer canais com Amazon e PrimeVideo? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
 https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w2015601503.m3u8
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: FILMES E SERIES",  Ganhe dinheiro na Internet SEM INVESTIR
+https://archive.org/download/aplicativo-pagando-no-free-youtube/Aplicativo%20pagando%20no%20Free%20Youtube.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="CANAIS: FILMES E SERIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0JM9jLh.jpg" group-title="CANAIS: FILMES E SERIES", GOSPEL MOVIES TELEVISION
@@ -685,6 +691,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="CANAIS: INFANTIL Gratis", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: INFANTIL Gratis",  Ganhe dinheiro na Internet SEM INVESTIR
+https://archive.org/download/aplicativo-pagando-no-free-youtube/Aplicativo%20pagando%20no%20Free%20Youtube.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="CANAIS: INFANTIL Gratis", Retrô Cartoon 2
 https://stmv2.srvsh.com.br/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="CANAIS: INFANTIL Gratis", TV BRASIL TVE RS
@@ -823,6 +831,8 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="CANAIS: RELIGIOSOS", IURD TV
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: RELIGIOSOS",  Ganhe dinheiro na Internet SEM INVESTIR
+https://archive.org/download/aplicativo-pagando-no-free-youtube/Aplicativo%20pagando%20no%20Free%20Youtube.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="CANAIS: RELIGIOSOS", IURD TV (Assine nossa Lista Premium para mais canais Religiosos. WhatsApp(47)99626-5594)
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="CANAIS: RELIGIOSOS", Novo Tempo
@@ -867,6 +877,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="CANAIS: VARIEDADES GRATIS", Brasil Oeste (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: VARIEDADES GRATIS",  Ganhe dinheiro na Internet SEM INVESTIR
+https://archive.org/download/aplicativo-pagando-no-free-youtube/Aplicativo%20pagando%20no%20Free%20Youtube.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="CANAIS: VARIEDADES GRATIS", Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/efcb8e80e7fb0b65bdcd3bcba64595e5.jpg" group-title="CANAIS: VARIEDADES GRATIS", CANAL ITV (Filmes e Series)
