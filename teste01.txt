@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS: ABERTOS",  SBT (Lista Atualizada EM 22/06/22 14:35) iptvbmxxx
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS: ABERTOS",  SBT (Lista Atualizada EM 22/06/22 15:25) iptvbmxxx
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS: ABERTOS",  SBT (TV CIDADE VERDE)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -8,7 +8,7 @@ http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/diAxFOm.png" group-title="CANAIS: ABERTOS", ADESSO TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: ABERTOS",  INDIQUE E GANHE 10 Reais
-https://archive.org/download/indique-e-ganhe-completo/Comercial%20Indique%20e%20ganhe%20Completo-H%20%28VP-5%20RP10%29.mp4
+https://archive.org/download/indique-e-ganhe-completo/Comercial%20Indique%20e%20ganhe%20Completo-H%20%28VP-5%20RP10%29.mp4 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="CANAIS: ABERTOS", AgroBrasil TV (Quer canais com GloboPlay e DisneyPlus? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7RJHIOl.png" group-title="CANAIS: ABERTOS", AISH TV BRASIL (Quer canais HBO Plus e DISNEY? Assine nossa lista PREMIUM. WhatsApp(47)99626-5594)
@@ -19,6 +19,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://livefocamundo.com:8081/allegrowebtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: ABERTOS",  Ganhe dinheiro na Internet SEM INVESTIR
 https://archive.org/download/aplicativo-pagando-no-free-youtube/Aplicativo%20pagando%20no%20Free%20Youtube.mp4
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: ABERTOS",  Ganhe dinheiro na Internet SEM INVESTIR
+https://rr2---sn-oxunxg8pjvn-o8uel.googlevideo.com/videoplayback?expire=1655943395&ei=glyzYrz1N42j1sQP0faTgAw&ip=177.82.227.196&id=o-ADgIbZefzAvdFCNwW-c7_onkW6z0F-GxHdaUjQR6MhhA&itag=134&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mh=iI&mm=31%2C29&mn=sn-oxunxg8pjvn-o8uel%2Csn-bg07dnkk&ms=au%2Crdu&mv=m&mvi=2&pl=23&initcwndbps=980000&spc=4ocVC7g52K5S0irHaWvZggnzwPDmFAI&vprv=1&mime=video%2Fmp4&ns=skAqjtD-_6y7KhCcdii-qloG&gir=yes&clen=7494023&otfp=1&dur=546.946&lmt=1655859928366474&mt=1655921572&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=6216224&n=XqgDoUjBE1M18A&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRAIgLEGPZJCBjrWA_Pi-eAnFEWS1ZXBlj76w3TYaesVrM98CIHlqL6pplB20Y0SKzhVHc0W78UNp76Zd9U78bBLGwCKn&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgGj3CIre4RlBwdPayNPiuENcCG0tnSeyUCL5MXDuUaPkCIBA1FQ5GAD2isOQzz6FGzRZ2jSNKRcZPmaoMZ47hzDgf&alr=yes&cpn=Blm0p06aSoqQJZjM&cver=2.20220622.01.00&rn=35&rbuf=42918&pot=GpsBCm6sgQ3Z2LEJgrhcoF_ipUMNA9UqNw5_T5Lj1A5bX8trFSLe3_X7c3bmSBR3NTsy1Hg4258HuQ4IFqeqqCHnrT_xvOmuB3_uTMWc3Q0G6sayWTKshd--CLOlUVOHLDB6T2NeNueVNLeGz3bjYXCu2RIpATwYQQ4B5L6OrzOeiriGcZOdCQxmZsPKYR-kf7vLQ4bwPZrOsxD4H4c=
 #EXTINF:-1 tvg-logo="https://imgur.com/WNvxlJ8.png" group-title="CANAIS: ABERTOS", ALPHA CHANNEL
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nYIkG2G.png" group-title="CANAIS: ABERTOS", AMERICA HORROR CHANNEL (Quer canais com Amazon e PrimeVideo? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
